@@ -1,4 +1,4 @@
-👋 Hi, I’m Laura! (@laurahelenee)
+## 👋 Hi, I’m Laura! (@laurahelenee)
 
 👀 I’m interested in Data Science, Deep Learning, Computer Vision applied to health, marketing and compliance subjects. 
 
